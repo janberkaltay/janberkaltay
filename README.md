@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 JANBERK ALTAY
+# JR. FRONT-END / FLUTTER DEVELOPER
 🌱 I’m currently learning Frameworks<br><br>My YouTube channel https://www.youtube.com/@DevCoderJan<br><br>💬 Ask me about react, Flutter<br><br>📫 How to reach me janberk.altayy@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/janberkaltay/
 
 
